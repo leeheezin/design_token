@@ -12,7 +12,7 @@ npm run build
 ```
 ### 개발 서버 실행
 ```bash
-npm install
+npm i style-dictionary
 npm run dev
 ```
 

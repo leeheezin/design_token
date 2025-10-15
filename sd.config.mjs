@@ -8,17 +8,17 @@ export default {
   platforms: {
     css: {
       transformGroup: 'tokens-studio',
-      buildPath: 'styles/',
+      buildPath: 'app/styles/',
       files: [
         {
-          destination: 'tokens.css',
+          destination: 'tokens.scss',
           format: 'css/variables',
         },
       ],
     },
     js: {
       transformGroup: 'tokens-studio',
-      buildPath: 'styles/',
+      buildPath: 'app/styles/',
       files: [
         {
           destination: 'tokens.js',
