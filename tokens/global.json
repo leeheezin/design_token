@@ -1,0 +1,76 @@
+{
+  "japan": {
+    "value": "#e83328",
+    "type": "color"
+  },
+  "china": {
+    "value": "#e10a20",
+    "type": "color"
+  },
+  "s": {
+    "value": "4px",
+    "type": "borderRadius"
+  },
+  "m": {
+    "value": "8px",
+    "type": "borderRadius"
+  },
+  "l": {
+    "value": "10px",
+    "type": "borderRadius"
+  },
+  "xl": {
+    "value": "20px",
+    "type": "borderRadius"
+  },
+  "body": {
+    "value": "Pretendard, sans-serif",
+    "type": "fontFamilies"
+  },
+  "sm": {
+    "value": "20px",
+    "type": "lineHeights"
+  },
+  "ml": {
+    "value": "25px",
+    "type": "lineHeights"
+  },
+  "size": {
+    "s": {
+      "value": "14px",
+      "type": "fontSizes"
+    },
+    "m": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "l": {
+      "value": "18px",
+      "type": "fontSizes"
+    },
+    "xl": {
+      "value": "20px",
+      "type": "fontSizes"
+    },
+    "head": {
+      "value": "26px",
+      "type": "fontSizes"
+    }
+  },
+  "vietnam": {
+    "value": "#f18f00",
+    "type": "color"
+  },
+  "thai": {
+    "value": "#019f54",
+    "type": "color"
+  },
+  "indonesia": {
+    "value": "#0d3086",
+    "type": "color"
+  },
+  "default": {
+    "value": "#fff",
+    "type": "color"
+  }
+}

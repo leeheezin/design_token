@@ -1,0 +1,17 @@
+.buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.btn {
+  border: none;
+  color: var(--default);
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--m);
+}
+
+.bg-japan { background-color: var(--japan); font-size: var(--sizeS);}
+.bg-china { background-color: var(--china); font-size: var(--sizeM);}
+.bg-vietnam { background-color: var(--vietnam); font-size: var(--sizeL); }
+.bg-thai { background-color: var(--thai); font-size: var(--sizeXl);}
+.bg-indonesia { background-color: var(--indonesia); font-size: var(--sizeHead);}
